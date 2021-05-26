@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dominik-cegiełka-763077115" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="dominik-cegiełka-763077115" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dominik-cegiełka-763077115" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="dominik-cegiełka-763077115" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
