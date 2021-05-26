@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Lodz University of Technology**
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Java, Flutter**
 
 - 📫 How to reach me **dcegielka98@gmail.com**
 
