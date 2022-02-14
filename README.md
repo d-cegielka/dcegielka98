@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Lodz University of Technology**
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 I’m currently learning **ETL processes, Python, ADF, Databricks**
 
 - 📫 How to reach me **dcegielka98@gmail.com**
 
